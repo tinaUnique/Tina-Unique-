@@ -35,6 +35,7 @@ style="padding:0.5rem 1rem; border-radius:20px; border:none; margin-right:0.5rem
 </footer>
 <!DOCTYPE html>
 <html lang="en">
+<script src="js/main.js"></script>
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />

@@ -251,7 +251,7 @@ text-decoration: underline;
 </head>
 <body>
 <h1>About Tina Unique</h1>
-<p><strong>Tina Unique Booker</strong> is a bold, beautiful, and powerful author whose memoirs chronicle her remarkable journey. Becoming a mother at 17, Tina faced life's challenges head-on and made it to 42 unscathed — a testament to her strength and resilience.</p>
+<p><strong>Tina Unique</strong> is a bold, beautiful, and powerful author whose memoirs chronicle her remarkable journey. Becoming a mother at 17, Tina faced life's challenges head-on and made it to 42 unscathed — a testament to her strength and resilience.</p>
 <p>Her second memoir tells the story of her legendary rise above trials and tribulations, proving she's always ahead of the game, never behind. Tina’s voice is elegant with a slight dramatic flair, embodying creativity and uniqueness.</p>
 <p>In addition to her writing, Tina collaborates with InkWorld Publishing, bringing her artistic vision to a wider audience.</p>
 </body>

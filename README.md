@@ -1,3 +1,22 @@
+my-ink-brand-site/ <- Root of your repo
+│
+├─ index.html <- Main homepage
+├─ about.html <- Optional: About the author page
+├─ contact.html <- Optional: Contact page
+│
+├─ assets/ <- Folder for all images, icons, PDFs
+│ ├─ ink-splash.png
+│ ├─ publisher-logo.png
+│ └─ ...other images
+│
+├─ css/ <- Folder for stylesheets
+│ └─ style.css
+│
+├─ js/ <- Folder for JavaScript files
+│ └─ main.js
+│
+└─ README.md <- Info about your repo
+
 # Tina-Unique-
 A soulful collection of personal memoirs written by **Tina Unique** — reflections of love, growth, and the art of becoming.   These memoirs are being prepared for publication and sale on Tina’s official website, where readers can connect with her stories directly.  📧 **Contact:** [tinalovesink@gmail.com](mailto:tinalovesink@gmail.com)
 <img src="assets/ink-splash.png" alt="Soft Ink Splash" />
